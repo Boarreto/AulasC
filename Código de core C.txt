@@ -1,0 +1,17 @@
+Código de core C:
+0 - preto
+1 - azul
+2 - verde
+3 - verde água
+4- vermelho
+5 - roxo
+6 - amarelo
+7 - branco
+8 - cinza
+9 - azul claro
+A - verde claro 
+B - verde água claro
+C - vermelho claro
+D - lilás
+E - amarelo claro
+F - branco brilhante

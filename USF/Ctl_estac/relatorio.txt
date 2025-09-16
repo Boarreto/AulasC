@@ -1,0 +1,11 @@
+Relatório do dia: 28/05/2025
+Valor da hora do estacionamento: R$ 30.00
+--------------------------
+Veículo 1:
+   Placa            : aye8e97
+   Horário de Entrada: 09:20
+   Horário de Saída  : 10:00
+   Tempo decorrido   : 40 minutos (0h 40min)
+   Valor cobrado     : R$ 20.00
+--------------------------
+Total arrecadado: R$ 20.00
